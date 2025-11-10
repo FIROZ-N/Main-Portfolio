@@ -5,8 +5,8 @@
 A modern, responsive portfolio website showcasing my expertise in web development and data analysis. Built with clean code and attention to detail.
 
 ## 🚀 Live Demo
-[![Website](https://img.shields.io/badge/Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourusername.github.io/portfolio)
-[![GitHub](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio)
+[![Website](https://img.shields.io/badge/Visit_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firoz-n.netlify.app/)
+[![GitHub](https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIROZ-N/Main-Portfolio)
 
 ## 👨‍💻 About Me
 I'm a Computer Science Graduate (2025) passionate about creating digital solutions that make a difference. I believe in clean code, user-friendly design, and data-driven decisions.
